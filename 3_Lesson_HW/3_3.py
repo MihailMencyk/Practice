@@ -29,7 +29,6 @@ A4 = "FHVWYЙЫ"  #4 очка
 A5 = "KЖЗХЦЧ"  #5 очков
 A8 = "JXШЭЮ"  #8 очков
 A10 = "QZФЩЪ"  #10 очков
-# sum = 0
 print(word)
 i = 0
 Word = word.upper()
