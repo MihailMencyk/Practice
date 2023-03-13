@@ -29,9 +29,7 @@ A4 = "FHVWYЙЫ"  #4 очка
 A5 = "KЖЗХЦЧ"  #5 очков
 A8 = "JXШЭЮ"  #8 очков
 A10 = "QZФЩЪ"  #10 очков
-# sum = 0
 print(word)
-i = 0
 Word = word.upper()
 s1 = sum([A1.count(Word[i])*1 for i in range(len(Word))])
 s2 = sum([A2.count(Word[i])*2 for i in range(len(Word))])
